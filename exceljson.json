@@ -352,7 +352,7 @@
         "": ""
     },
     {
-        "Icao": "YSSY ",
+        "Icao": "YSSY",
         "Country": "Australia",
         "Latitude": "",
         "Longitude": "",
@@ -360,7 +360,15 @@
         "": ""
     },
     {
-        "Icao": "YBCS ",
+        "Icao": "YBCS",
+        "Country": "Australia",
+        "Latitude": "",
+        "Longitude": "",
+        "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "YBAS",
         "Country": "Australia",
         "Latitude": "",
         "Longitude": "",
